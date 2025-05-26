@@ -1,0 +1,107 @@
+# Ignore Node.js dependencies
+node_modules/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Ignore environment variables
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+.env.example
+
+# Ignore log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+debug.log
+logs/
+*.log
+
+# Ignore build output
+dist/
+build/
+.out/
+.next/
+.vscode/
+.idea/
+
+# Ignore cache & temp files
+.cache/
+.temp/
+.DS_Store
+Thumbs.db
+
+# Ignore backend-specific files
+Backend/node_modules/
+Backend/.env
+Backend/dist/
+Backend/build/
+Backend/logs/
+
+# Ignore ONLY this config.env file (not the whole folder)
+Backend/config/config.env
+
+# Ignore frontend-specific files
+frontend/node_modules/
+frontend/.env
+frontend/dist/
+frontend/build/
+
+# Ignore dashboard-specific files
+dashboard/node_modules/
+dashboard/.env
+dashboard/dist/
+dashboard/build/
+
+# Ignore editor/OS files
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+.vscode/
+*.iml
+*.bak
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+venv/
+
+# Environment variables or secret files
+*.env
+password.txt
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# VSCode settings
+.vscode/
+
+# Pytest cache
+.pytest_cache/
+
+# MyPy cache
+.mypy_cache/
+
+# FastAPI specific (if any compiled or temp files generated)
+*.log
+
+# Model files
+*.keras
+*.h5
+*.pth
+*.pt
+
+
