@@ -11,7 +11,6 @@
 ## 👥 Team
 
 - 👨‍💻 [Muzammal Bilal](https://github.com/MuzammalBilal)
-- 👨‍💻 [Muhammad Yasin](https://github.com/MuhammadYasinSaleem)
 - 👨‍💻 [Shahzaib Khalid](https://github.com/M-Shahzaib-Khalid)
 
 
